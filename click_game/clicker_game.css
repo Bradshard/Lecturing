@@ -1,0 +1,39 @@
+body {
+  background-color: #f8f8f8;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+#game-board {
+  margin-top: 30px;
+}
+
+#score {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#clicker {
+  font-size: 36px;
+  padding: 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#reset {
+  font-size: 36px;
+  padding: 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}

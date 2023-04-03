@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://jsfiddle.net/ac9z8sgd/");
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+  max-width: 600px;
+  text-align: center;
+}
+
+button {
+  background-color: #f7d794;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e5c9a5;
+}
