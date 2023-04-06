@@ -1,0 +1,9 @@
+In the game, our aim is to teach map function.
+
+- An array of colors and array of matching words are given.
+
+-Then we shuffle the words with sort and math.random
+
+-random truth indexes are generated ('correctIndex') to have the correct color for button which should have the true value.
+
+-Then map function is used to create a button element for each shuffled word. By this each button is given a background color that is corresponding to the index in the color. Click event listener of the button checks if the index matches the correctIndex.

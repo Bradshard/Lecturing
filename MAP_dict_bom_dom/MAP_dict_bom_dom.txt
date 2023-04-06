@@ -1,0 +1,9 @@
+- here map function is used for to calculate the squares of numbers from 1 to 5 and displays them in the result of HTML.
+
+- Dictionary object created with key-value pairs of different fruits, and we show keys and values in the HTML.
+
+- the BOM is used to display the current URL of the window in the HTML
+
+- The DOM is manipulated for creation of a new paragraph element and adds it to HTML.
+
+Can be opened in any web browser to see examples in action.
